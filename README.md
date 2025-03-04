@@ -20,7 +20,7 @@ const Bry = {
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js"],
-            css: ["Tailwind", "bootstrap"]
+            css: ["Tailwind", "bootstrap"],
             dart: ["Flutter"]
         },
         backEnd: {
