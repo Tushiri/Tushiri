@@ -4,7 +4,6 @@
 </em></p>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/haroldbryannnsantos) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d) 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harold-bryan-santos-a538b5292/)](https://www.linkedin.com/in/harold-bryan-santos-a538b5292/)
 ![GitHub followers](https://img.shields.io/github/followers/tushiri?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=tushiri.tushiri)
@@ -21,7 +20,7 @@ const Bry = {
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js"],
-            css: ["Tailwind", "MaterialUI", "bootstrap"]
+            css: ["Tailwind", "bootstrap"]
             dart: ["Flutter"]
         },
         backEnd: {
