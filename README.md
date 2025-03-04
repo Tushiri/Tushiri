@@ -38,6 +38,3 @@ const Bry = {
 
 ### 💻 My most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushiri&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/tushiri/github-readme-stats)
-### 📖 My Github stats
-
-<a href="https://portfolio-dusky-three-46.vercel.app/"><img src="https://streak-stats.demolab.com/?user=tushiri" width="50%"></a>
